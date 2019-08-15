@@ -1,1 +1,2 @@
 # WebsiteBlocker
+A simple website blocker. It will ask you for admin privilege when you run the executable. Put into the web_site list the websites you wish to block. Facebook is inside the list by default. If you wish to end the script, look at task manager and end the process named python. The script automatically blocks facebook from 0 to 3 am. The script continually runs every 5 seconds or so, it will unblock the website at any other time.
